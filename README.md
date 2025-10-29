@@ -141,7 +141,7 @@ Data was cleaned and transformed in **Power Query Editor**:
 
 ## 🙏 Acknowledgement  
 
-Special thanks to the **Seoul Bike Sharing Dataset (Open Data)** for providing an excellent real-world dataset.  
+Special thanks to the **Retail Sales Sharing Dataset (Open Data)** for providing an excellent real-world dataset.  
 This project was created as part of a **Data Analytics learning journey** using **Power BI**.  
 
 ---
