@@ -54,3 +54,5 @@ Data was cleaned and transformed in **Power Query Editor**:
       "Senior (60+)"
   )
   ```
+- Created DAX measures for KPIs and category contribution.
+
