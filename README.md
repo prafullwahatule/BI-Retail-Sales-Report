@@ -139,9 +139,19 @@ Data was cleaned and transformed in **Power Query Editor**:
 
 ---
 
-## 👨‍💻 Created By  
+## 🙏 Acknowledgement  
 
-**Prafull Wahatule**  
-🎓 MCA (2023–25) | 💼 Aspiring Data Analyst  
-🧩 Tools: Power BI | SQL | Python | Excel  
-🔗 GitHub: [prafull816](https://github.com/prafull816)
+Special thanks to the **Seoul Bike Sharing Dataset (Open Data)** for providing an excellent real-world dataset.  
+This project was created as part of a **Data Analytics learning journey** using **Power BI**.  
+
+---
+
+## 📎 Author  
+
+**👤 Name:** Prafull Wahatule  
+**📧 Email:** [prafullwahatule@gmail.com](mailto:prafullwahatule@gmail.com)  
+**💻 GitHub:** [prafullwahatule](https://github.com/prafullwahatule)  
+
+---
+
+⭐ *If you found this project helpful, don’t forget to star the repository!* ⭐
